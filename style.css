@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+header a {
+    font-size: 20px;
+  
+}
+header {
+    background-color: aqua;
+    padding: 15px;
+    border-radius: 20px ;
+}
+
+h1 {
+    text-align:center;
+    color:brown;
+}
+
+footer p {
+    background-color: green;
+    color: black;
+}
+
+body {
+    font-size: 20px;
+}
